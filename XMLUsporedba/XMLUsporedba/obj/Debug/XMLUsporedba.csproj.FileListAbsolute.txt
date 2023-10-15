@@ -1,0 +1,7 @@
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\bin\Debug\XMLUsporedba.exe.config
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\bin\Debug\XMLUsporedba.exe
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\bin\Debug\XMLUsporedba.pdb
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\obj\Debug\XMLUsporedba.csproj.AssemblyReference.cache
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\obj\Debug\XMLUsporedba.csproj.CoreCompileInputs.cache
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\obj\Debug\XMLUsporedba.exe
+C:\Users\ninom\source\repos\XMLUsporedba\XMLUsporedba\obj\Debug\XMLUsporedba.pdb
